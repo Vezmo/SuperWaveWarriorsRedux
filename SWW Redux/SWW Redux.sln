@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWW Redux", "SWW Redux.csproj", "{D33B49AD-DC2E-DDA8-66B0-1CF2D8E7CB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWW Redux.Plugins", "SWW Redux.Plugins.csproj", "{9413D298-BA95-0B43-0F3E-8A9DAF2A8B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWW Redux.Editor", "SWW Redux.Editor.csproj", "{4F9AB4B8-EA8A-C28C-4E32-72BEACCCC2F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D33B49AD-DC2E-DDA8-66B0-1CF2D8E7CB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33B49AD-DC2E-DDA8-66B0-1CF2D8E7CB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33B49AD-DC2E-DDA8-66B0-1CF2D8E7CB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33B49AD-DC2E-DDA8-66B0-1CF2D8E7CB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9413D298-BA95-0B43-0F3E-8A9DAF2A8B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9413D298-BA95-0B43-0F3E-8A9DAF2A8B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9413D298-BA95-0B43-0F3E-8A9DAF2A8B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9413D298-BA95-0B43-0F3E-8A9DAF2A8B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9AB4B8-EA8A-C28C-4E32-72BEACCCC2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9AB4B8-EA8A-C28C-4E32-72BEACCCC2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9AB4B8-EA8A-C28C-4E32-72BEACCCC2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9AB4B8-EA8A-C28C-4E32-72BEACCCC2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 9d26ed8750e8d1144a2fea1804766784
+timeCreated: 1515372418
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Comp 1_00001_0
+    21300002: Comp 1_00001_1
+    21300004: Comp 1_00001_2
+    21300006: Comp 1_00001_3
+    21300008: Comp 1_00001_4
+    21300010: Comp 1_00001_5
+    21300012: Comp 1_00001_6
+    21300014: Comp 1_00001_7
+    21300016: Comp 1_00001_8
+    21300018: Comp 1_00001_9
+    21300020: Comp 1_00001_10
+    21300022: Comp 1_00001_11
+    21300024: Comp 1_00001_12
+    21300026: Comp 1_00001_13
+    21300028: Comp 1_00001_14
+    21300030: Comp 1_00001_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Comp 1_00001_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2713
+        width: 341
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_1
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2735
+        width: 319
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_2
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2746
+        width: 306
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_3
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2758
+        width: 312
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_4
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2769
+        width: 319
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_5
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 2780
+        width: 326
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_6
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2778
+        width: 336
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_7
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 2778
+        width: 344
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_8
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 2776
+        width: 355
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_9
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 2773
+        width: 367
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2358
+        width: 380
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2340
+        width: 395
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_12
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2346
+        width: 413
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_13
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 2347
+        width: 428
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_14
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 2346
+        width: 400
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Comp 1_00001_15
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 2346
+        width: 403
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
